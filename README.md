@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.Net Core, React, Angular**
 
-- 💬 Ask me about **We**
+- 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
