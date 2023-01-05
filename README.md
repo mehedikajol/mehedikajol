@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedikajol&label=Profile%20views&color=0e75b6&style=flat" alt="mehedikajol" /> </p>
 
-- 🔭 I’m currently working on **Djigui**
+- 🔭 I’m currently working on **Djigui (ASP.Net and React application)**
 
 - 🌱 I’m currently learning **ASP.Net Core, React, Angular**
 
