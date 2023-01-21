@@ -23,6 +23,10 @@
 | <strong>Programming Languages</strong>  |      |   C#, JavaScript  |  | C, C++ |
 | <strong>Backend Frameworks</strong>     |         | ASP.Net Core      |  |  |
 |<strong>Frontend Frameworks</strong> | | React | Angular | |
+|<strong>Designing Frameworks</strong> | | Bootstrap, Tailwind | | |
+|<strong>Markup Languages</strong> | | HTML | | |
+|<strong>Programming Languages</strong> | | CSS | | |
+|<strong>Mobile Platform </strong> | | React Native | | |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedikajol&show_icons=true&locale=en&layout=compact" alt="mehedikajol" /></p>
 
