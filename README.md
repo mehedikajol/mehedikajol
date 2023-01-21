@@ -60,7 +60,11 @@
 
 <table>
   <tr>
-    <th>Test</th>
+    <th>Tool Name</th>
+    <th>Team Lead</th>
+    <th>Professional Project</th>
+    <th>Personal Project</th>
+    <th>Theoritical Knowledge</th>
   </tr>
   <tr>
     <td>Test</td>
