@@ -20,7 +20,7 @@
 
 | Tool Name | Team Lead Experience | Professional Project Experience | Personal Project Experience | Theoritical Knowledge Experience |
 | :---:         |     :---:      |          :---: | :---: | :---: |
-| Programming Languages  | C#, JavaScript     |     |  | C, C++ |
+| <strong>Programming Languages</strong>  | C#, JavaScript     |     |  | C, C++ |
 | git diff     | git diff       | git diff      | test | test |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedikajol&show_icons=true&locale=en&layout=compact" alt="mehedikajol" /></p>
