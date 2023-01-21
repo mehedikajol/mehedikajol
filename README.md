@@ -67,25 +67,36 @@
     <th>Theoritical Knowledge</th>
   </tr>
   <tr>
-    <td><strong>Programming Languages</strong></td>
+    <td><strong>Languages</strong></td>
     <td></td>
     <td>C#, JavaScript</td>
     <td></td>
     <td>C, C++</td>
   </tr>
   <tr>
-    <td><strong>Backend Frameworks</strong></td>
+    <td><strong>Backend</strong></td>
     <td></td>
     <td>ASP.Net Core</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td></td>
+    <td>React, Razor Pages</td>
+    <td>Angular</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Designing</strong></td>
+    <td></td>
+    <td>Bootstrap, Tailwind</td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
 
-| <strong>Backend Frameworks</strong>    |           | ASP.Net Core          |                   |                        |
-|<strong>Frontend Frameworks</strong>    |           | React, Razor Pages    | Angular           |                        |
-|<strong>Designing Frameworks</strong>   |           | Bootstrap, Tailwind   |                   |                        |
 |<strong>Markup Languages</strong>       |           | HTML                  |                   |                        |
 |<strong>Programming Languages</strong>  |           | CSS                   |                   |                        |
 |<strong>Mobile Platform </strong>       |           | React Native          |                   |                        |
