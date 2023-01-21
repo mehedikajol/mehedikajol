@@ -20,8 +20,9 @@
 
 | Tool Name | Team Lead Experience | Professional Project Experience | Personal Project Experience | Theoritical Knowledge Experience |
 | :---:         |     :---:      |          :---: | :---: | :---: |
-| <strong>Programming Languages</strong>  | C#, JavaScript     |     |  | C, C++ |
-| git diff     | git diff       | git diff      | test | test |
+| <strong>Programming Languages</strong>  |      |   C#, JavaScript  |  | C, C++ |
+| <strong>Backend Frameworks</strong>     |         | ASP.Net Core      |  |  |
+|<strong>Frontend Frameworks</strong> | | React | Angular | |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedikajol&show_icons=true&locale=en&layout=compact" alt="mehedikajol" /></p>
 
