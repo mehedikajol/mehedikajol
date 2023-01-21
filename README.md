@@ -21,8 +21,8 @@
 <h3 align="left">Experiences</h3>
 | Tool Name               | Team Lead Exp. | Professional Project Exp. | Personal Project Exp. | Theoritical Knowledge |
 |    :---:                |     :---:      |      :---:                |     :---:             |      :---:            |
-| Programming Languages   | -              | C#, JavaScript            | -                     | C, C++                |
-| git diff                | git diff       | git diff                  | -                     |    -                  |
+| Programming Languages   | none           | C#, JavaScript            | none                  | C, C++                |
+| git diff                | git diff       | git diff                  | none                  |    none               |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedikajol&show_icons=true&locale=en&layout=compact" alt="mehedikajol" /></p>
 
