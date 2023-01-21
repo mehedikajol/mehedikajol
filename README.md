@@ -88,19 +88,35 @@
     <td></td>
   </tr>
   <tr>
-    <td><strong>Designing</strong></td>
+    <td><strong>Mobile</strong></td>
+    <td></td>
+    <td>React Native</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>CSS Framwork</strong></td>
     <td></td>
     <td>Bootstrap, Tailwind</td>
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td><strong>Web</strong></td>
+    <td></td>
+    <td>HTML 5, CSS 3, JQuery</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>SQL Server</td>
+  </tr>
 </table>
 
-
-|<strong>Markup Languages</strong>       |           | HTML                  |                   |                        |
-|<strong>Programming Languages</strong>  |           | CSS                   |                   |                        |
-|<strong>Mobile Platform </strong>       |           | React Native          |                   |                        |
-|<strong>Database</strong>               |           |                       |                   | SQL Server             | 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedikajol&show_icons=true&locale=en&layout=compact" alt="mehedikajol" /></p>
 
