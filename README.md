@@ -67,14 +67,22 @@
     <th>Theoritical Knowledge</th>
   </tr>
   <tr>
-    <td>Test</td>
+    <td><strong>Programming Languages</strong></td>
+    <td></td>
+    <td>C#, JavaScript</td>
+    <td></td>
+    <td>C, C++</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Frameworks</strong></td>
+    <td></td>
+    <td>ASP.Net Core</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
 
-| Tool Name                              | Team Lead | Professional Project  | Personal Project  | Theoritical Knowledge  |
-| :---:                                  |     :---: |          :---:        | :---:             | :---:                  |
-| <strong>Programming Languages</strong> |           |   C#, JavaScript      |                   | C, C++                 |
 | <strong>Backend Frameworks</strong>    |           | ASP.Net Core          |                   |                        |
 |<strong>Frontend Frameworks</strong>    |           | React, Razor Pages    | Angular           |                        |
 |<strong>Designing Frameworks</strong>   |           | Bootstrap, Tailwind   |                   |                        |
