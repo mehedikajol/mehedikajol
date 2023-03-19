@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan (Kajol)</h1>
-<h3 align="center">A enthusiast ASP.Net Core and React developer from Bangladesh</h3>
+<h3 align="center">An enthusiast ASP.Net Core and React developer from Bangladesh</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mehedikajol&label=Profile%20views&color=0e75b6&style=flat" alt="mehedikajol" /> 
