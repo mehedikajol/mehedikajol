@@ -90,7 +90,7 @@
     <td><strong>Frontend</strong></td>
     <td></td>
     <td>React, Razor Pages</td>
-    <td>Angular</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>SQL Server</td>
+    <td>SQL</td>
   </tr>
 </table>
 
