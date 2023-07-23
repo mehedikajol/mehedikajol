@@ -76,13 +76,13 @@
     <td><strong>Languages</strong></td>
     <td></td>
     <td>C#, JavaScript</td>
-    <td></td>
+    <td>TypeScript</td>
     <td>C, C++</td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
     <td></td>
-    <td>ASP.Net Core</td>
+    <td>Asp.Net Core</td>
     <td></td>
     <td></td>
   </tr>
