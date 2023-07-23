@@ -94,13 +94,6 @@
     <td></td>
   </tr>
   <tr>
-    <td><strong>Mobile</strong></td>
-    <td></td>
-    <td>React Native</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><strong>CSS Framwork</strong></td>
     <td></td>
     <td>Bootstrap, Tailwind</td>
