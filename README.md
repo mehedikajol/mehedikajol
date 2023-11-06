@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan (Kajol)</h1>
-<h3 align="center">An enthusiast ASP.Net Core and React developer from Bangladesh</h3>
+<h3 align="center">An enthusiast ASP.Net Core developer from Bangladesh</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mehedikajol&label=Profile%20views&color=0e75b6&style=flat" alt="mehedikajol" /> 
 </p>
 
-- 🔭 I’m currently working on **Djigui (ASP.Net and React application)**
-
 - 🌱 I’m currently learning **ASP.Net Core, React, Angular**
-
-- 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
