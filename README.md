@@ -85,7 +85,7 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td></td>
-    <td>React, Razor Pages</td>
+    <td>Blazor, Razor Pages, Angular</td>
     <td></td>
     <td></td>
   </tr>
