@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mehedikajol&label=Profile%20views&color=0e75b6&style=flat" alt="mehedikajol" /> 
 </p>
 
-- 🌱 I’m currently learning **ASP.Net Core, React, Angular**
+- 🌱 I’m currently learning **ASP.Net Core, Blazor, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
